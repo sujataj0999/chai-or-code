@@ -4,7 +4,7 @@ const myArray2 = new Array(10, 12, 14, 16,)
 
 //Array Methods
 // myArray.push("mango");
-// myArray.pop()  
+// myArray.pop()  //removes last element 
 // myArray.shift() //removes first element
 // myArray.unshift("jamun"); //adds element at the beginning
 // console.log(myArray.includes("grapes"));
