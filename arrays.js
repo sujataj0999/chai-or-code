@@ -4,9 +4,9 @@ const myArray2 = new Array(10, 12, 14, 16,)
 
 //Array Methods
 // myArray.push("mango");
-// myArray.pop()
-// myArray.shift()
-// myArray.unshift("jamun");
+// myArray.pop()  
+// myArray.shift() //removes first element
+// myArray.unshift("jamun"); //adds element at the beginning
 // console.log(myArray.includes("grapes"));
 // console.log(myArray.indexOf("grapes"));
 // console.log(myArray);
