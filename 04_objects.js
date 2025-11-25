@@ -52,8 +52,29 @@ const regularUser = {
     },
  ]
     //console.log(users[0].email);
-    console.log(TodoUser);
-    console.log(Object.keys(TodoUser));
-    console.log(Object.values(TodoUser));
-    console.log(Object.entries(TodoUser));
-    console.log(TodoUser.hasOwnProperty('age'));
+    // console.log(TodoUser);
+    // console.log(Object.keys(TodoUser));
+    // console.log(Object.values(TodoUser));
+    // console.log(Object.entries(TodoUser));
+    // console.log(TodoUser.hasOwnProperty('age'));
+
+    const course = {
+        coursename: 'Js in hindi',
+        price: 2999,
+        courseInstructor: 'S Jena',
+    }
+
+   const{courseInstructor} = course; //object destructuring
+    console.log(courseInstructor);
+
+    // {
+    //     "name": 'Sujata',
+    //     "coursename": 'Js in hindi',
+    //     "price": "free",
+    // }
+
+    [
+        {},
+        {},
+
+    ]
