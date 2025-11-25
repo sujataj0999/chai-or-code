@@ -1,7 +1,8 @@
+//We can create in 2 ways singleton object and objcet literal
 //singleton
 //object.create
 
-//Object literal
+//Object literal 
 
 const mySym = Symbol('key1');
 
