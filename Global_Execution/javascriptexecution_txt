@@ -1,0 +1,10 @@
+// Javascript Execution context:
+
+// {} -> Global EC -> this
+
+// We have total 3 Global EC in javascript
+// 1. Global Execution context for browser
+// 2. Function Execution context for node js
+// 3. Eval Execution context for IIFE
+
+// {} in javascript the code is  running in 2 phases 1. Memory creation phase and 2.  execution phase
